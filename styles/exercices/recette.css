@@ -1,1 +1,23 @@
+h1 {
+    color: red; text-decoration: underline; text-align: center;
+}
 
+h2, h3 {
+    text-decoration: underline;
+}
+
+#intro {
+    font-style: italic; text-align: center;
+}
+
+body {
+    background-color: #ffffcc
+}
+
+a:hover {
+    color:blue;
+}
+
+div {
+    text-align: center;
+}
